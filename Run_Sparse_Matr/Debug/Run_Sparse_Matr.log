@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+  Run_Sparse_Matr.cpp
+  Generating Code...
+D:\Проекти, презентации и тд\предмети кну\2\Прогр Вер\Laboratory3(sparse_matrix)\Run_Sparse_Matr\Functions.cpp(103): warning C4715: 'read_matrix': not all control paths return a value
+  Run_Sparse_Matr.vcxproj -> D:\Проекти, презентации и тд\предмети кну\2\Прогр Вер\Laboratory3(sparse_matrix)\Debug\Run_Sparse_Matr.exe
